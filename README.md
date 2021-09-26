@@ -1,6 +1,6 @@
 # Getting Ready For Music fest 2021!
 
-This project is deployed on [BD Music Fest 2021](https://github.com/facebook/create-react-app).
+This project is deployed on [BD Music Fest 2021](https://shudipto-music-fest.netlify.app/).
 
 ## About the Website
 
