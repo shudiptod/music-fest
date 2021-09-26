@@ -95,10 +95,17 @@
     font-weight: bold;
 
     padding: 10px 25px 10px 25px;
-    background-color: rgb(255, 94, 0);
+    background-color: rgb(255, 51, 0);
     cursor: pointer;
 
     border: 1px thin coral ;
     border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+i{
+    margin-top: 5px;
+    margin-right: 50px;
 }

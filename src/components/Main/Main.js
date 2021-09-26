@@ -7,9 +7,12 @@ import './Main.css';
 const Main = () => {
     const [bandList, setBandList] = useState([]);
     const [addedBand, setAddedBand] = useState([]);
+
+    // i have created and hosted an api on my github 
+
     useEffect(
         () => {
-            fetch('./fakedb.json')
+            fetch('https://shudiptod.github.io/api/bd-bands.json')
                 .then(res => res.json())
                 .then(data => setBandList(data));
         }, []

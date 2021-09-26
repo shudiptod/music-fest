@@ -1,9 +1,16 @@
 .cart{
     padding-left:30px;
     margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .summary{
+
+    width: 90%;
+
     border: 2px solid rgb(0, 0, 0) ;
     border-radius: 10px;
 
@@ -13,4 +20,28 @@
 }
 .band-names{
     padding-left: 10px;
+}
+/* confirm button style  */
+.confirm-button{
+    color: cornsilk;
+    font-size: 18px;
+    font-weight: normal;
+
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(255, 51, 0);
+    cursor: pointer;
+
+    border: 1px thin coral ;
+    border-radius: 15px;
+
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+i{
+    margin-top: 5px;
+    margin-right: 5px;
 }

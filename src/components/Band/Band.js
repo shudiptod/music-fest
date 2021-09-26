@@ -20,7 +20,7 @@ const Band = (props) => {
                 <p className="popular-song"><small>{band.popular_songs.join(', ')}</small></p>
                 <h5 className="fee">Contract Fee: BDT <span className="detail-focus">{band.fee}</span></h5>
             </div>
-            <button onClick={() => props.handleAdd(band)} className="add-button"><i><FaMusic /></i> Add to FEST</button>
+            <button onClick={() => props.handleAdd(band)} className="add-button"><i><FaMusic /></i>Contract</button>
         </div>
     );
 };

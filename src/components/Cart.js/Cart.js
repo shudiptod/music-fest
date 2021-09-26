@@ -1,5 +1,7 @@
+
 import React from 'react';
 import './Cart.css';
+import { FaFireAlt } from 'react-icons/fa';
 const Cart = (props) => {
     const { addedBand } = props;
     console.log("cart", addedBand);
@@ -14,6 +16,7 @@ const Cart = (props) => {
                 <h5>Total Bands: {addedBand.length}</h5>
                 <h5>Total Fee: {totalFee}</h5>
             </div>
+            <button className="confirm-button"><i><FaFireAlt /> </i> Let's fest</button>
             <div className="band-names">
                 <h3>Selected Bands Names:</h3>
                 <ul>
