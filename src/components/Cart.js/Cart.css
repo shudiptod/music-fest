@@ -1,0 +1,16 @@
+.cart{
+    padding-left:30px;
+    margin-top: 15px;
+}
+
+.summary{
+    border: 2px solid rgb(0, 0, 0) ;
+    border-radius: 10px;
+
+    padding:10px;
+
+    box-shadow:1px 1px 0px 5px rgb(226, 222, 207);
+}
+.band-names{
+    padding-left: 10px;
+}

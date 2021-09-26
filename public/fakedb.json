@@ -1,0 +1,203 @@
+[
+    {
+        "_id": "614f66118f2c04921ecfbe0c",
+        "index": 0,
+        "name": "Artcell",
+        "genre": "Metal",
+        "lead_singer": "Lincoln De Costa",
+        "popular_songs": [
+            "অনিকেত প্রান্তর",
+            "পথচলা",
+            "দুঃখ বিলাশ"
+        ],
+        "fee": 3095000,
+        "picture": "https://pm1.narvii.com/6569/c6d69e6d5555db29aa9a9b2567e71224566542b0_hq.jpg"
+    },
+    {
+        "_id": "614f66115ed63a7b7a798413",
+        "index": 1,
+        "name": "Warfaze",
+        "genre": "Rock",
+        "lead_singer": "Palash Noor",
+        "popular_songs": [
+            "Obak Valobasha",
+            "Purnota",
+            "Rupkotha"
+        ],
+        "fee": 246600,
+        "picture": "https://4.bp.blogspot.com/-RDFS6BIT_BM/W4uQCX2pDdI/AAAAAAAABuQ/gCjhek-oeNoCoQxHV4MJvROB5UWqnF2wQCLcBGAs/s320/Pothochola%2B%255BPoster-2%255D.jpg"
+    },
+    {
+        "_id": "614f6611a107420c834ccff6",
+        "index": 2,
+        "name": "Shironamhin",
+        "genre": "Rock",
+        "lead_singer": "Istiaque",
+        "popular_songs": [
+            "Abar Hashimukh",
+            "Hashimukh",
+            "Ei Obelay"
+        ],
+        "fee": 241500,
+        "picture": "http://shironamhin.net/wp-content/uploads/2018/03/eng-bang.png"
+    },
+    {
+        "_id": "614f6611dec9d00ef0783146",
+        "index": 3,
+        "name": "Popeye (Bangladesh)",
+        "genre": "Rock-Fusion",
+        "lead_singer": "Raffan",
+        "popular_songs": [
+            "Neshar Bojha",
+            "Bishonno Shundor",
+            "Bhalobasha Baki"
+        ],
+        "fee": 293400,
+        "picture": "https://i.scdn.co/image/ab6761610000e5eb3feabc8d5492e175e8816464"
+    },
+    {
+        "_id": "614f6611037f95e422c9b4d0",
+        "index": 4,
+        "name": "Love Runs Blind - LRB",
+        "genre": "Rock",
+        "lead_singer": "Ayub Bachchu",
+        "popular_songs": [
+            "Cholo Bodle Jai",
+            "Hashte Dekho"
+        ],
+        "fee": 169500,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdxt4sRcTspCFwibrgasts-rbQTHXcYAEV9YQjDfd7Cmgvb6PbraM1P29IqppbzQbslIo&usqp=CAU"
+    },
+    {
+        "_id": "614f6611787b89bfa4cbd934",
+        "index": 5,
+        "name": "Ark",
+        "genre": "Hard rock",
+        "lead_singer": "Hasan",
+        "popular_songs": [
+            "SWEETY TUMI AR KEDONA",
+            "Eto Kosto Keno"
+        ],
+        "fee": 130300,
+        "picture": "data:image/jpeg;base64,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"
+    },
+    {
+        "_id": "614f6611656add6e5db742ea",
+        "index": 6,
+        "name": "Miles",
+        "genre": "Pop Rock",
+        "lead_singer": "Hamin Ahmed",
+        "popular_songs": [
+            "ফিরিয়ে দাও",
+            "প্রিয়তমা "
+        ],
+        "fee": 146100,
+        "picture": "https://upload.wikimedia.org/wikipedia/en/8/84/Miles_%28Bangladeshi_Rock_Band%29.jpg"
+    },
+    {
+        "_id": "614f6611aa8d88ecc7878593",
+        "index": 7,
+        "name": "Souls",
+        "genre": "Pop Rock",
+        "lead_singer": "Partha Barua",
+        "popular_songs": [
+            "Mon Shudhu Mon",
+            "Keno Ei Nishongota"
+        ],
+        "fee": 376100,
+        "picture": "https://cdn.risingbd.com/media/imgAll/2012October/Souls20121210091439.jpg"
+    },
+    {
+        "_id": "614f6611f842d88ec2d3f3cd",
+        "index": 8,
+        "name": "Nagar Baul",
+        "genre": "Psychedelic rock",
+        "lead_singer": "James (Guru)",
+        "popular_songs": [
+            "দুষ্ট ছেলের দল",
+            "Bheegi Bheegi",
+            "জেল থেকে বলছি "
+        ],
+        "fee": 359400,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Faruq_Mahfuz_Anam_in_Trination_Mega_Festival_-_Bangladesh_India_Pakistan_%288375647058%29.jpg/220px-Faruq_Mahfuz_Anam_in_Trination_Mega_Festival_-_Bangladesh_India_Pakistan_%288375647058%29.jpg"
+    },
+    {
+        "_id": "614f6611964b2589789892b4",
+        "index": 9,
+        "name": "Dalchut",
+        "genre": "Pop",
+        "lead_singer": "Bappa Mazumder",
+        "popular_songs": [
+            "Bioscope",
+            "Gari Chole Na"
+        ],
+        "fee": 220100,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Concert_of_Dalchhut_at_AIUB_by_Farsad8.JPG/220px-Concert_of_Dalchhut_at_AIUB_by_Farsad8.JPG"
+    },
+    {
+        "_id": "614f66117fde7d4221df8220",
+        "index": 10,
+        "name": "Nemesis",
+        "genre": "Alternative Rock",
+        "lead_singer": "Zohad",
+        "popular_songs": [
+            "জয়ধ্বনি",
+            "ধূসর ভাবনা"
+        ],
+        "fee": 329500,
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Nemesis_members_2016.jpg/220px-Nemesis_members_2016.jpg"
+    },
+    {
+        "_id": "614f6611798252628db52583",
+        "index": 11,
+        "name": "Bangla",
+        "genre": "Indie - Folk",
+        "lead_singer": "Arnob",
+        "popular_songs": [
+            "Shey je boshe ache",
+            "Tomar jonno"
+        ],
+        "fee": 307500,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arnab_in_Dallas%2C2012B_%281_of_1%29.jpg/220px-Arnab_in_Dallas%2C2012B_%281_of_1%29.jpg"
+    },
+    {
+        "_id": "614f661118701e2ec491c8e8",
+        "index": 12,
+        "name": "Backstage (bangladesh)",
+        "genre": "CoverBand",
+        "lead_singer": "Rudra",
+        "popular_songs": [
+            "Dehoghori",
+            "Ek tanete Jemon Temon"
+        ],
+        "fee": 31080,
+        "picture": "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/65696/original/crop:x0y0w248h186/hash:1466545132/Backstage-coverband.jpg?1466545132"
+    },
+    {
+        "_id": "614f6611b92aed06f650d364",
+        "index": 13,
+        "name": "Ashes",
+        "genre": "Rock",
+        "lead_singer": "Evan",
+        "popular_songs": [
+            "Dhulabali",
+            "Shey Amare",
+            "Charpoka"
+        ],
+        "fee": 356700,
+        "picture": "https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/2248119/original/resize:248x186/crop:x0y10w780h585/hash:1467274326/1438153849_final-final_-_Copy.jpg?1467274326"
+    },
+    {
+        "_id": "614f6611491be86164430887",
+        "index": 14,
+        "name": "Joler Gaan",
+        "genre": "Folk - Indie folk",
+        "lead_singer": "Rahul Anand",
+        "popular_songs": [
+            "Emon jodi hoto",
+            "Bokul Phool"
+        ],
+        "fee": 218000,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Joler_Gaan.jpg/220px-Joler_Gaan.jpg"
+    }
+]

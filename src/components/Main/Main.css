@@ -1,0 +1,15 @@
+.main-component{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.band-section{
+
+    width: 100%;
+    margin-left: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-evenly;
+}

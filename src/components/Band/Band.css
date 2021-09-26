@@ -1,0 +1,104 @@
+.band{
+
+    background-color: rgb(255, 255, 255);
+
+    width: 92%;
+    height: min-content;
+
+    margin: 5px;
+    padding: 5px;
+    padding-bottom: 20px;
+
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 10px lightgray;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* div styling for image  */
+.image-container{
+    background-color: black;
+    width: 80%;
+    height: 150px;
+    margin-top: 15px;
+    border: 1px thin white;
+    border-radius: 10px;
+}
+
+/* styling image  */
+.band-image{
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+}
+
+/* style for details  */
+.band-detail{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.detail-focus{
+    font-weight: 600;
+    font-size: medium;
+    font-style:normal;
+}
+
+.genre{
+    font-style: italic;
+    font-weight:bold;
+    font-family:sans-serif;
+    color: rgb(216, 52, 24);
+}
+
+/* style for popular song  */
+
+.popular-song{
+    text-align: justify;
+    position: relative;
+    top: -10px;
+    display: inline;
+}
+.popular-song small{
+    color: rgb(228, 76, 17);
+    font-weight: 600;
+}
+
+/* modifying hr tag  */
+.divider{
+    position: relative;
+    top: -10px;
+    margin:0;
+}
+
+/* fee  */
+
+.fee{
+    font-size: 20px;
+    position: relative;
+    top: -15px;
+    font-weight: 600;
+}
+.fee .detail-focus{
+    font-size: 20px;
+    
+}
+
+/* button styling  */
+.add-button{
+    color: cornsilk;
+    font-size: medium;
+    font-weight: bold;
+
+    padding: 10px 25px 10px 25px;
+    background-color: rgb(255, 94, 0);
+    cursor: pointer;
+
+    border: 1px thin coral ;
+    border-radius: 15px;
+
+}
